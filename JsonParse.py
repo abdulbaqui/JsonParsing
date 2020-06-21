@@ -12,3 +12,6 @@ array = []
 for key in y:
     array.append(key["title"])
 print(array[5])
+
+for z in range(1,100,1):
+    print(array[z])
